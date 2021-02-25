@@ -6,7 +6,7 @@
 
 ## About
 
-A node-express server that returns a different random five letter word for a guessing-word game app everytime.
+A node-express server that returns a new random five letter word everytime for a guessing-word game app
 
 ## Tests &nbsp; :traffic_light:
 
