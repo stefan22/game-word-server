@@ -18,11 +18,11 @@ Test: `index.test.js`
 2. Install dependencies
 3. Open in browser: `npm start`
 
-- `http://localhost:3000`
+- `http://localhost:3000/word`
 
 4. Test `npm run test`
 
-- `http://localhost:4000`
+- `http://localhost:4000/word`
 
 <br />
 
