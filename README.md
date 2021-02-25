@@ -6,7 +6,7 @@
 
 ## About
 
-A node-express server that returns a different random five letter word for a guessing-word game app everytime.
+A node-express server that returns a new random five letter word everytime for a guessing-word game app
 
 ## Tests &nbsp; :traffic_light:
 
@@ -18,11 +18,11 @@ Test: `index.test.js`
 2. Install dependencies
 3. Open in browser: `npm start`
 
-- `http://localhost:3000`
+- `http://localhost:3000/word`
 
 4. Test `npm run test`
 
-- `http://localhost:4000`
+- `http://localhost:4000/word`
 
 <br />
 
