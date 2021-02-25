@@ -7,7 +7,7 @@ let lastWord;
 let selectedWord;
 const randFn = () => Math.floor(Math.random() * words.length);
 
-//if new random word equals last word -> get another
+//if new random word equals last word -> get another - closure
 const getWord = () => {
   function isWord() {
     let rand = randFn();
