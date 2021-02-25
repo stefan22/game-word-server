@@ -5,7 +5,7 @@ const { words } = fileWords;
 
 let lastWord;
 let selectedWord;
-const randFn = (getRandomPos = () => Math.floor(Math.random() * words.length));
+const randFn = () => Math.floor(Math.random() * words.length);
 
 const getWord = () => {
   function isWord() {
