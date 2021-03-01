@@ -2,7 +2,7 @@ const request = require('supertest');
 const app = require('./index.js');
 const $ = require('jquery');
 
-const PORT = 4000;
+let PORT = process.env.PORT || 3000;
 
 let server, agent, response;
 beforeAll((done) => {
@@ -16,7 +16,6 @@ beforeAll((done) => {
 
 describe('GET/word', () => {
   test('server responds with status 200', async () => {
-    expect.assertions(1);
     await expect(response.statusCode).toBe(200);
   });
 
