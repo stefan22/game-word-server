@@ -20,9 +20,9 @@ Test: `index.test.js`
 
 - `http://localhost:3000/word`
 
-4. Test `npm run test`
+4. Test without server
 
-- `http://localhost:4000/word`
+- `npm run test`
 
 <br />
 
