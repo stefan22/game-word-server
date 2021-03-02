@@ -1,6 +1,6 @@
 # Guessing-word-game Server &nbsp; :name_badge:
 
-[![Lint Code Base](https://github.com/stefan22/guessing-game/actions/workflows/lint_33_.yml/badge.svg)](https://github.com/stefan22/guessing-game/actions/workflows/lint_33_.yml)
+[![Lint Code Base](https://github.com/stefan22/game-word-server/actions/workflows/lint_33_.yml/badge.svg)](https://github.com/stefan22/game-word-server/actions/workflows/lint_33_.yml)
 
 
 :baggage_claim: Tech stack: &nbsp; tdd - node - express - jest - supertest
