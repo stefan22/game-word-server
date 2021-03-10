@@ -1,6 +1,6 @@
 # Guessing-word-game Server &nbsp; :name_badge:
 
-[![Lint Code Base](https://github.com/stefan22/game-word-server/actions/workflows/linter.yml/badge.svg)](https://github.com/stefan22/game-word-server/actions/workflows/linter.yml)
+[![Lint Code Base](https://github.com/stefan22/game-word-server/actions/workflows/linter.yml/badge.svg)](https://github.com/stefan22/game-word-server/actions/workflows/linter.yml) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://github.com/stefan22/game-word-server/actions/workflows/linter.yml) 
 
 
 :baggage_claim: Tech stack: &nbsp; tdd - node - express - jest - supertest
